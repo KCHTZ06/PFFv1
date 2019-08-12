@@ -3,6 +3,8 @@ Phising Free Fire v1 By KCHTZ
 
 pkg update && pkg upgrade
 
+apt install toilet
+
 pkg install git
 
 gem install lolcat
