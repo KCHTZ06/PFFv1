@@ -4,7 +4,7 @@ Ini adalah ToolsPhising Free Fire v1 (PFFv1) By KCHTZ
 
 
 <li><code>pkg update && pkg upgrade</code></li>
-apt install toilet
+<li><code>apt install toilet</code></li>
 <li><code>pkg install git</code></li>
 <li><code>gem install lolcat</code></li>
 <li><code>pip2 install mechanize</code></li>
