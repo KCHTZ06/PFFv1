@@ -15,7 +15,7 @@ Ini adalah ToolsPhising Free Fire v1 (PFFv1) By KCHTZ
 <li><code>chmod +x PFFv1.sh</code></li>
 <li><code>ls</code></li>
 <li><code>apt update && apt upgrade</code></li>
-#Pilih mode nomor 1 aja biar cepet:v
+Pilih mode nomor 1 aja biar cepet:v
 
 Buat link custom/tidak terserah kalian
 
