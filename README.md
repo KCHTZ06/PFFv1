@@ -1,5 +1,5 @@
 # PFFv1
-Ini adalah ToolsPhising Free Fire v1 (PFFv1) By KCHTZ
+Ini adalah Tools Phising Free Fire v1 (PFFv1) By KCHTZ
 
 
 <li><code>pkg update && pkg upgrade</code></li>
